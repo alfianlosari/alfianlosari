@@ -18,13 +18,13 @@
 - Python (Flask, Script).
 
 ### Connect
-- [YouTube <img align="left" alt="xcodingwithalfian | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
+- Website: [alfianlosari.com][website]
+- [YouTube<img align="left" alt="xcodingwithalfian | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
+- [Twitter<img align="left" alt="xcodingwithalfian | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter] 
+- [LinkedIn<img align="left" alt="xcodingwithalfian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin] 
+- [Instagram<img align="left" alt="xcodingwithalfian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][Instagram] 
 
-<!-- - Website: [alfianlosari.com][website].
 
-- Twitter: [alfianlosari][twitter].
-- LinkedIn: [alfianlosari][linkedin].
-- Instagram: [alfianlosari][instagram]. -->
 
 [website]: https://alfianlosari.com
 [youtube]: https://youtube.com/c/XcodingwithAlfian
