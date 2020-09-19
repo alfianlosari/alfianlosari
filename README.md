@@ -18,8 +18,8 @@
 - Python (Flask, Script).
 
 ## Connect
-- [alfianlosari.com<img alt="alfianlosari | Website" width="22px" src="https://imagizer.imageshack.com/v2/100x75q90/924/hXegXC.png"/>][website]
-- [Xcoding With Alfian<img alt="xcodingwithalfian | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
+- [alfianlosari.com<img align="left" alt="alfianlosari | Website" width="22px" src="https://imagizer.imageshack.com/v2/100x75q90/924/hXegXC.png"/> < br/>][website]
+- [Xcoding With Alfian<img align="left" alt="xcodingwithalfian | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube] 
 - [Twitter<img align="left" alt="xcodingwithalfian | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter] 
 - [LinkedIn<img align="left" alt="xcodingwithalfian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin] 
 - [Instagram<img align="left" alt="xcodingwithalfian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][Instagram] 
