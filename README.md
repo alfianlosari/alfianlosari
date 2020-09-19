@@ -17,14 +17,13 @@
 - Ruby (Rails, Script).
 - Python (Flask, Script).
 
-### Connect
-[<img align="left" alt="alfianlosari | Website" width="22px" src="https://imagizer.imageshack.com/v2/100x75q90/924/hXegXC.png"/>][website]
-[<img align="left" alt="xcodingwithalfian | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
-[<img align="left" alt="xcodingwithalfian | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter] 
-[<img align="left" alt="xcodingwithalfian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin] 
-[<img align="left" alt="xcodingwithalfian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][Instagram] 
+## Connect
+- [alfianlosari.com<img alt="alfianlosari | Website" width="22px" src="https://imagizer.imageshack.com/v2/100x75q90/924/hXegXC.png"/>][website]
+- [Xcoding With Alfian<img alt="xcodingwithalfian | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
+- [Twitter<img align="left" alt="xcodingwithalfian | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter] 
+- [LinkedIn<img align="left" alt="xcodingwithalfian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin] 
+- [Instagram<img align="left" alt="xcodingwithalfian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][Instagram] 
 
-< br />
 
 [website]: https://alfianlosari.com
 [youtube]: https://youtube.com/c/XcodingwithAlfian
