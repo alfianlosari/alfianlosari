@@ -10,7 +10,7 @@
 - ⚙ Open Source Believer and Contributor.
 
 ## Languages & Frameworks:
-- <Swift & Objective-C (📱 UIKit, SwiftUI) img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
+- Swift & Objective-C (📱 UIKit, SwiftUI) <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 - Java & Kotlin (Android SDK).
 - Dart (Flutter).
 - Javascript/Typescript (React, node.js).
