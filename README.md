@@ -10,19 +10,19 @@
 - ⚙ Open Source Believer and Contributor.
 
 ## Languages & Frameworks:
-- Swift & Objective-C (UIKit, SwiftUI)
-- Java & Kotlin (Android SDK)
-- Dart (Flutter)
-- Javascript/Typescript (React, node.js)
-- Ruby (Rails, Script)
-- Python (Flask, Script)
+- Swift & Objective-C (UIKit, SwiftUI).
+- Java & Kotlin (Android SDK).
+- Dart (Flutter).
+- Javascript/Typescript (React, node.js).
+- Ruby (Rails, Script).
+- Python (Flask, Script).
 
 ### Connect
-- Website: [alfianlosari.com][website]
-- Youtube: [Xcoding With Alfian][youtube]
-- Twitter: [alfianlosari][twitter]
-- LinkedIn: [alfianlosari][linkedin]
-- Instagram: [alfianlosari][instagram]
+- Website: [alfianlosari.com][website].
+- [<img align="left" alt="xcodingwithalfian | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />] Youtube: [Xcoding With Alfian][youtube].
+- Twitter: [alfianlosari][twitter].
+- LinkedIn: [alfianlosari][linkedin].
+- Instagram: [alfianlosari][instagram].
 
 [website]: https://alfianlosari.com
 [youtube]: https://youtube.com/c/XcodingwithAlfian
