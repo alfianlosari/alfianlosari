@@ -10,12 +10,12 @@
 - ⚙ Open Source Believer and Contributor.
 
 ## Languages & Frameworks:
-- Swift & Objective-C (UIKit, SwiftUI)<img align="left" alt="swift" width="22px" padding-right="8px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
-- Java & Kotlin (Android SDK)<img align="left" alt="android" width="22px" padding-right="8px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"/>
+- Swift & Objective-C (UIKit, SwiftUI)<img align="left" alt="swift" width="22px" style="padding-right:8px;padding-bottom:8px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
+- Java & Kotlin (Android SDK)<img align="left" alt="android" width="22px" style="padding-right:8px;padding-bottom:8px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg"/>
 - Dart (Flutter)<img align="left" alt="flutter" width="22px" padding-right="8px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg"/>
-- JavaScript/TypeScript (React, node.js) <img align="left" alt="javascript" width="22px" padding-right="8px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
-- Ruby (Rails, Script)<img align="left" alt="ruby" width="22px" padding-right="8px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg"/>
-- Python (Flask, Script)<img align="left" alt="python" width="22px" padding-right="8px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
+- JavaScript/TypeScript (React, node.js) <img align="left" alt="javascript" width="22px" style="padding-right:8px;padding-bottom:8px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
+- Ruby (Rails, Script)<img align="left" alt="ruby" width="22px" style="padding-right:8px;padding-bottom:8px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg"/>
+- Python (Flask, Script)<img align="left" alt="python" width="22px" style="padding-right:8px;padding-bottom:8px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
 
 ## Connect
 - [alfianlosari.com<img align="left" alt="alfianlosari | Website" width="22px" src="https://imagizer.imageshack.com/v2/100x75q90/924/hXegXC.png"/>][website]
