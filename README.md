@@ -9,26 +9,13 @@
 - 👷🏻‍♂️ Passion to build insanely great product that can solve people's problems at scale.
 - ⚙ Open Source Believer and Contributor.
 
-## Languages:
-- Swift
-- Objective-C
-- Java
-- Kotlin
-- Ruby
-- Python
-- Javascript
-- TypeScript
-- Dart
-
-## Frameworks:
-- UIKit (📱 iOS/iPadOS)
-- SwiftUI ()
-- Android SDK (Java/Kotlin - Android)
-- Flutter (Dart - Cross Platform)
-- React (JS - Web/Cross Platform)
-- Express (node.js - Backend)
-- Rails (Ruby - Backend)
-- Flask (Python - Backend)
+## Languages & Frameworks:
+- Swift & Objective-C (UIKit, SwiftUI)
+- Java & Kotlin (Android SDK)
+- Dart (Flutter)
+- Javascript/Typescript (React, node.js)
+- Ruby (Rails, Script)
+- Python (Flask, Script)
 
 ### Connect
 - Website: [alfianlosari.com][website]
