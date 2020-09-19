@@ -1,5 +1,5 @@
 
-# Hello everyone! I am Alfian Losari - [Xcoding With Alfian][website]
+# Hello everyone! I'm Alfian Losari - [Xcoding With Alfian][website]
 
 ## Software Engineer and a Lifelong Learner!
 - 📱 I'm currently working at Gojek as iOS Engineer.
@@ -8,6 +8,27 @@
 - 📖 Love to learn all things about technology.
 - 👷🏻‍♂️ Passion to build insanely great product that can solve people's problems at scale.
 - ⚙ Open Source Believer and Contributor.
+
+## Languages:
+- Swift
+- Objective-C
+- Java
+- Kotlin
+- Ruby
+- Python
+- Javascript
+- TypeScript
+- Dart
+
+## Frameworks:
+- UIKit (📱 iOS/iPadOS)
+- SwiftUI ()
+- Android SDK (Java/Kotlin - Android)
+- Flutter (Dart - Cross Platform)
+- React (JS - Web/Cross Platform)
+- Express (node.js - Backend)
+- Rails (Ruby - Backend)
+- Flask (Python - Backend)
 
 ### Connect
 - Website: [alfianlosari.com][website]
