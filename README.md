@@ -6,7 +6,7 @@
 - ✍🏻 Writing blog and tutorials at [Xcoding With Alfian][website].
 - 📹 Creating YouTube Video Tutorials at [Xcoding with Alfian][youtube].
 - 📖 Love to learn all things about technology.
-- 👷🏻‍♂️ Passion to build insanely great proswduct that can solve people's problems at scale.
+- 👷🏻‍♂️ Passion to build insanely great product that can solve people's problems at scale.
 - ⚙ Open Source Believer and Contributor.
 
 ## Languages & Frameworks:
