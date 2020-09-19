@@ -6,11 +6,11 @@
 - ✍🏻 Writing blog and tutorials at [Xcoding With Alfian][website].
 - 📹 Creating YouTube Video Tutorials at [Xcoding with Alfian][youtube].
 - 📖 Love to learn all things about technology.
-- 👷🏻‍♂️ Passion to build insanely great product that can solve people's problems at scale.
+- 👷🏻‍♂️ Passion to build insanely great proswduct that can solve people's problems at scale.
 - ⚙ Open Source Believer and Contributor.
 
 ## Languages & Frameworks:
-- Swift & Objective-C (UIKit, SwiftUI).
+- <Swift & Objective-C (📱 UIKit, SwiftUI) img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 - Java & Kotlin (Android SDK).
 - Dart (Flutter).
 - Javascript/Typescript (React, node.js).
@@ -18,7 +18,7 @@
 - Python (Flask, Script).
 
 ## Connect
-- [alfianlosari.com<img align="left" alt="alfianlosari | Website" width="22px" src="https://imagizer.imageshack.com/v2/100x75q90/924/hXegXC.png"/> < br/>][website]
+- [alfianlosari.com<img align="left" alt="alfianlosari | Website" width="22px" src="https://imagizer.imageshack.com/v2/100x75q90/924/hXegXC.png"/>][website]
 - [Xcoding With Alfian<img align="left" alt="xcodingwithalfian | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube] 
 - [Twitter<img align="left" alt="xcodingwithalfian | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter] 
 - [LinkedIn<img align="left" alt="xcodingwithalfian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin] 
